@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Deployed](https://img.shields.io/badge/Live-Demo-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # Quiz App
 A full-stack quiz application built with React, Node.js, Express, and MongoDB. Features include user authentication, quiz creation and participation, leaderboard tracking, responsive UI, and image upload with Cloudinary. Designed for scalable deployment on Render.
 
@@ -31,6 +37,11 @@ A full-stack quiz application built with React, Node.js, Express, and MongoDB. F
 ### 📱 Responsive Design
 - Fully responsive with mobile-friendly hamburger menu
 - Category icons and navigation optimized for all screen sizes
+
+---
+## 🖼️ Demo Preview
+
+![Quiz App Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc2bHA0ZnBvenRhdmlyMWZ5N2RwOGdoYXQ1OHA4NmJud3B1M2JwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bXQY4nMnQhK2HpEbvj/giphy.gif)
 
 ---
 
@@ -71,7 +82,7 @@ A full-stack quiz application built with React, Node.js, Express, and MongoDB. F
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/Architl/quiz-app.git
 cd quiz-app
 ```
 ### 2. Setup the backend
@@ -116,6 +127,12 @@ https://quiz-app-client-ediq.onrender.com/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+- [@architlalwani](https://github.com/Architl)
 
 ---
 
