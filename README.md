@@ -1,4 +1,4 @@
-# quiz-app
+# Quiz App
 A full-stack quiz application built with React, Node.js, Express, and MongoDB. Features include user authentication, quiz creation and participation, leaderboard tracking, responsive UI, and image upload with Cloudinary. Designed for scalable deployment on Render.
 
 ## 🚀 Features
@@ -61,7 +61,7 @@ A full-stack quiz application built with React, Node.js, Express, and MongoDB. F
 ├── /server # Node.js backend (node index.js)
 │ └── controllers, models, routes, utils
 │
-└── README.md # Main project README
+└── README.md
 ```
 
 ---
